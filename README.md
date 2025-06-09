@@ -1,6 +1,4 @@
-Here is a professional **`README.md`** file in **English** tailored for your GitHub project using a custom CNN for dog breed classification:
 
----
 
 # 🐾 Dog Breed Classifier using CNN (PyTorch)
 
